@@ -39,7 +39,7 @@ To clone the repository, follow these steps:
 
 2. Clone the repository:
     ```sh
-    git clone https://github.com/DrizZzleOP/Port-Scanner.git
+    git clone https://github.com/codes-by-utkarsh/Port-Scanner.git
     ```
 
 3. Navigate to the project directory:
